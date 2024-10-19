@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class RandomUsernameGenerator {
+public class App {
     private static final String[] ADJECTIVES = {
         "Quick", "Happy", "Brave", "Clever", "Silly", "Mighty", "Sneaky", "Bold", "Swift", "Charming"
     };
